@@ -1,0 +1,100 @@
+body{
+	padding:0;
+	margin: 0;
+}
+#top-section{
+	padding:2% 10%;
+	background-color: #8A0651;
+	font-family: 'Coiny', cursive;
+	color:white;
+}
+.fas{
+	margin-right: 20px;
+	color:white;
+}
+.yes{
+	font-family: 'Coiny', cursive;
+	text-align: center;
+	padding-top:5%;
+}
+.navbar{
+	background-color: #fafad2;
+	padding:2% 10%;
+
+}
+
+a{
+	color:#8A0651;
+	
+}
+a:hover{
+	color:black;
+	text-decoration: none;
+
+}
+.navbar i{
+	color:black;
+}
+.below-nav{
+	background-color: #db7093;
+	padding:2% 10%;
+
+}
+.below-nav .fas{
+	color:#8A0651;
+	margin-left: 30%;
+}
+
+.slider-section{
+	background:url(wallpaper.jpg);
+	display:cover;
+	padding:2% 10%;
+	
+	position:relative;
+
+}
+.ima{
+	margin:auto 20% auto 70%;
+}
+.para{
+	 font-size: 3rem;
+  line-height: 1.5;
+  width:50%;
+  position:absolute;
+  text-align:center;
+
+}
+.products{
+	background-color:#fafad2; 
+
+}
+.row{
+	padding-top:10%;
+
+}
+.card{
+	padding-right: auto;
+	padding-left: auto;
+}
+.card{
+	margin-left: 20%;
+}
+.rate{
+	text-align: center;
+	background-color: #db7093;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+.rate i:hover{
+	color:yellow;
+}
+#footer{
+	text-align: center;
+}
+.social-icon{
+	margin:10px 10px;
+}
+#footer p{
+	background-color: #8A0651;
+	color:white;
+}
